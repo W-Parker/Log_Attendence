@@ -2,7 +2,7 @@
 
 The staff app for duty rosters and attendance.
 
-## [Download Log_Attendence 1.0.0](https://github.com/W-Parker/Log_Attendence/raw/main/Log_Attendence.apk)
+## [Download Log_Attendence 1.0.1](https://github.com/W-Parker/Log_Attendence/raw/main/Log_Attendence.apk)
 
 67M · Android 7 or newer
 
