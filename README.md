@@ -2,7 +2,7 @@
 
 The staff app for duty rosters and attendance.
 
-## [Download RollShift 1.5.0](https://github.com/W-Parker/Log_Attendence/raw/main/RollShift.apk)
+## [Download RollShift 1.6.0](https://github.com/W-Parker/Log_Attendence/raw/main/RollShift.apk)
 
 67M · Android 7 or newer
 
